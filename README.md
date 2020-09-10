@@ -31,7 +31,9 @@ Proyecto Torres de Hanoi en **C++** diseñado para demostrar:
 
 ## :purple_circle: Salida - Torres de Hanoi
 
-![](Images/SalidaTDH.png)
+![](Images/SalidaTDH.jpeg)
+
+El proyecto consiste en un famoso y clasico juego llamado Las Torres de Hanoi. Se tienen tres agujas y una cantidad de discos, se debe poder pasar los discos a las otras dos agujas cumpliendo que un disco pequeño este abajo de uno mas grande. Se utilizó un metodo recursiva que tiene 4 parametros: Numero de discos, aguja inicial, aguja destino y la aguja temporal. Como caso base esta la condición que se aplique la recursividad hasta que el numero de discos sea igual a 1, los discos van disminuyendo y las agujas intercambiando hasta que se logra el objetivo. La salida imprime todo el proceso que se llevó acabo para completar el ejercicio.
 
 ---
 
