@@ -12,7 +12,7 @@
 
 ## :dart: Objetivos
 
-![](Images/1C++.png)
+![](Images/C++.png)
 
 Proyecto Torres de Hanoi en **C++** diseñado para demostrar:
 
@@ -25,7 +25,13 @@ Proyecto Torres de Hanoi en **C++** diseñado para demostrar:
 
 ---
 
+## :red_circle: Hanoi_Texto.cpp
 
+![](Images/TorresHanoi.png)
+
+## :purple_circle: Salida - Torres de Hanoi
+
+![](Images/SalidaTDH.png)
 
 ---
 
